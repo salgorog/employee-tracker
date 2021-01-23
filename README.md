@@ -18,7 +18,7 @@ An employee tracking app that prompts user for various forms of information and 
 * Open up mySQL2 and run the schema.sql by typing SOURCE db/schema.sql and seeds.sql by typing SOURCE db/seeds.sql file to generate data into the database
 * run npm start to start the application
 
-
+[Link to Youtube](https://youtu.be/corywqx3iCU)
 
 ## License
 [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
@@ -26,3 +26,5 @@ An employee tracking app that prompts user for various forms of information and 
 Code released under the [Unlicense](http://unlicense.org/)
 
 ****
+
+![](public/ss.png)
