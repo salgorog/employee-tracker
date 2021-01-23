@@ -15,7 +15,7 @@ An employee tracking app that prompts user for various forms of information and 
 
 * Download source files
 * Run npm install to install the dependencies
-* Open up mySQL2 and run the schema.sql and seeds.sql file to generate data into the database
+* Open up mySQL2 and run the schema.sql by typing SOURCE db/schema.sql and seeds.sql by typing SOURCE db/seeds.sql file to generate data into the database
 * run npm start to start the application
 
 
